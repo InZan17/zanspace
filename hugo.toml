@@ -1,0 +1,4 @@
+baseURL = 'https://www.zanspace.lol/'
+locale = 'en-us'
+title = 'Zanspace'
+theme = 'ananke'
