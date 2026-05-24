@@ -2,3 +2,8 @@ baseURL = 'https://www.zanspace.lol/'
 locale = 'en-us'
 title = 'Zanspace'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+    
