@@ -2,6 +2,8 @@ baseURL = 'https://www.zanspace.lol/'
 locale = 'en-us'
 title = 'Zanspace'
 theme = 'ananke'
+sectionPagesMenu = 'main'
+mainSections = ["projects"]
 
 [caches]
   [caches.images]
